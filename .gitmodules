@@ -1,0 +1,3 @@
+[submodule "hello-testing-world"]
+	path = hello-testing-world
+	url = https://github.com/diogo-morais/hello-testing-world.git
