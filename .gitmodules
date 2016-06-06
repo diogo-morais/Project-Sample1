@@ -1,6 +1,3 @@
 [submodule "default"]
 	path = default
 	url = https://github.com/diogo-morais/Project-Default.git
-[submodule "Project-Sample1"]
-	path = Project-Sample1
-	url = https://github.com/diogo-morais/Project-Default.git
